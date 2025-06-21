@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+main a, nav a{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    padding: 9px;
+    border-radius: 9px;
+    margin-top: 12px;
+    
+}
+
+main img{
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+p {
+    font-size: 20px;
+}
+
+footer img {
+    margin-top: 25px;
+}
+
+main img{
+    margin-bottom: 25px;
+}
